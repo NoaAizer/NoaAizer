@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Noa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center"> M.Sc. Computer Science Student | Data Scientist </h3>
+<h3 align="center"> Graduate M.Sc. Computer Science Student | Data Scientist | Software Developer </h3>
 <p align="center">
 <img src="https://media.giphy.com/media/oEuOH7aNSRht4Jx4K9/giphy.gif" width="100">
 </p>
